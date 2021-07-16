@@ -1,0 +1,5 @@
+file = open("test.txt", "a")
+# data = file.readlines()
+# file.write(data)
+file.write("a\n")
+file.close()

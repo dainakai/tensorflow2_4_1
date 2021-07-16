@@ -1,0 +1,2 @@
+test data loss : 0.1558392196893692
+test data accyracy : 0.9829999804496765
