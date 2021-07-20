@@ -1,0 +1,15 @@
+python3 segmenTrainModel.py 0 2 2
+python3 segmenTrainModel.py 0 2 3
+python3 segmenTrainModel.py 0 2 4
+python3 segmenTrainModel.py 0 2 5
+python3 segmenTrainModel.py 0 2 6
+python3 segmenTrainModel.py 1 2 2
+python3 segmenTrainModel.py 1 2 3
+python3 segmenTrainModel.py 1 2 4
+python3 segmenTrainModel.py 1 2 5
+python3 segmenTrainModel.py 1 2 6
+python3 segmenTrainModel.py 2 2 2
+python3 segmenTrainModel.py 2 2 3
+python3 segmenTrainModel.py 2 2 4
+python3 segmenTrainModel.py 2 2 5
+python3 segmenTrainModel.py 2 2 6

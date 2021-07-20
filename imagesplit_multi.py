@@ -3,6 +3,7 @@ import glob
 import os
 import cv2
 import sys
+from multiprocessing import Pool
 
 def fft (input):
     data = np.fft.fft2(input)
@@ -77,23 +78,24 @@ def splitter (input, num, opt, height = 1024):
     if opt == 2:
         return output
 
-args = sys.argv
-pnum = int(args[1])
-opt = int(args[2])
-num = int(args[3])
-traintest = args[4]
-
-IMAGE_DIR = f"/media/dai/DATADISK/two_particle_datasets/holograms/{traintest}/close_holo/num_{pnum:05}/"
-OUTPUT_DIR = f"/media/dai/DATADISK/two_particle_datasets/segmentation/{traintest}/close_holo/opt{opt}/segnum{num}/num_{pnum:05}/"
-paths = glob.glob(f"{IMAGE_DIR}*")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-count = 0
-# paths = [paths[0]]
-for path in paths:
-    count += 1
+def imageProcess(path):
     image = cv2.imread(path,0)
     output = splitter(image, num, opt)
     output_path = path.replace(IMAGE_DIR,OUTPUT_DIR).replace(".bmp",".png")
     cv2.imwrite(output_path,output)
-    print(f"{count} th have been processed.")
+    print(path.replace(IMAGE_DIR,"")+" th have been processed.")
+
+args = sys.argv
+traintest = args[1]
+closefar = args[2]
+opt = int(args[3])
+num = int(args[4])
+pnum = int(args[5])
+
+IMAGE_DIR = f"/media/dai/DATADISK/two_particle_datasets/holograms/{traintest}/{closefar}_holo/num_{pnum:05}/"
+OUTPUT_DIR = f"/media/dai/DATADISK/two_particle_datasets/segmentation/{traintest}/{closefar}_holo/opt{opt}/segnum{num}/num_{pnum:05}/"
+paths = glob.glob(f"{IMAGE_DIR}*")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+p = Pool(24)
+p.map(imageProcess,paths)

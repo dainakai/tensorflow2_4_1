@@ -1,162 +1,166 @@
-python3 imagesplit.py 1 0 2
-python3 imagesplit.py 2 0 2
-python3 imagesplit.py 3 0 2
-python3 imagesplit.py 4 0 2
-python3 imagesplit.py 5 0 2
-python3 imagesplit.py 6 0 2
-python3 imagesplit.py 7 0 2
-python3 imagesplit.py 8 0 2
-python3 imagesplit.py 9 0 2
-python3 imagesplit.py 10 0 2
-python3 imagesplit.py 11 0 2
-python3 imagesplit.py 12 0 2
-python3 imagesplit.py 13 0 2
-python3 imagesplit.py 14 0 2
-python3 imagesplit.py 15 0 2
-python3 imagesplit.py 16 0 2
-python3 imagesplit.py 21 0 2
-python3 imagesplit.py 26 0 2
-python3 imagesplit.py 1 1 2
-python3 imagesplit.py 2 1 2
-python3 imagesplit.py 3 1 2
-python3 imagesplit.py 4 1 2
-python3 imagesplit.py 5 1 2
-python3 imagesplit.py 6 1 2
-python3 imagesplit.py 7 1 2
-python3 imagesplit.py 8 1 2
-python3 imagesplit.py 9 1 2
-python3 imagesplit.py 10 1 2
-python3 imagesplit.py 11 1 2
-python3 imagesplit.py 12 1 2
-python3 imagesplit.py 13 1 2
-python3 imagesplit.py 14 1 2
-python3 imagesplit.py 15 1 2
-python3 imagesplit.py 16 1 2
-python3 imagesplit.py 21 1 2
-python3 imagesplit.py 26 1 2
-python3 imagesplit.py 1 2 2
-python3 imagesplit.py 2 2 2
-python3 imagesplit.py 3 2 2
-python3 imagesplit.py 4 2 2
-python3 imagesplit.py 5 2 2
-python3 imagesplit.py 6 2 2
-python3 imagesplit.py 7 2 2
-python3 imagesplit.py 8 2 2
-python3 imagesplit.py 9 2 2
-python3 imagesplit.py 10 2 2
-python3 imagesplit.py 11 2 2
-python3 imagesplit.py 12 2 2
-python3 imagesplit.py 13 2 2
-python3 imagesplit.py 14 2 2
-python3 imagesplit.py 15 2 2
-python3 imagesplit.py 16 2 2
-python3 imagesplit.py 21 2 2
-python3 imagesplit.py 26 2 2
-python3 imagesplit.py 1 0 4
-python3 imagesplit.py 2 0 4
-python3 imagesplit.py 3 0 4
-python3 imagesplit.py 4 0 4
-python3 imagesplit.py 5 0 4
-python3 imagesplit.py 6 0 4
-python3 imagesplit.py 7 0 4
-python3 imagesplit.py 8 0 4
-python3 imagesplit.py 9 0 4
-python3 imagesplit.py 10 0 4
-python3 imagesplit.py 11 0 4
-python3 imagesplit.py 12 0 4
-python3 imagesplit.py 13 0 4
-python3 imagesplit.py 14 0 4
-python3 imagesplit.py 15 0 4
-python3 imagesplit.py 16 0 4
-python3 imagesplit.py 21 0 4
-python3 imagesplit.py 26 0 4
-python3 imagesplit.py 1 1 4
-python3 imagesplit.py 2 1 4
-python3 imagesplit.py 3 1 4
-python3 imagesplit.py 4 1 4
-python3 imagesplit.py 5 1 4
-python3 imagesplit.py 6 1 4
-python3 imagesplit.py 7 1 4
-python3 imagesplit.py 8 1 4
-python3 imagesplit.py 9 1 4
-python3 imagesplit.py 10 1 4
-python3 imagesplit.py 11 1 4
-python3 imagesplit.py 12 1 4
-python3 imagesplit.py 13 1 4
-python3 imagesplit.py 14 1 4
-python3 imagesplit.py 15 1 4
-python3 imagesplit.py 16 1 4
-python3 imagesplit.py 21 1 4
-python3 imagesplit.py 26 1 4
-python3 imagesplit.py 1 2 4
-python3 imagesplit.py 2 2 4
-python3 imagesplit.py 3 2 4
-python3 imagesplit.py 4 2 4
-python3 imagesplit.py 5 2 4
-python3 imagesplit.py 6 2 4
-python3 imagesplit.py 7 2 4
-python3 imagesplit.py 8 2 4
-python3 imagesplit.py 9 2 4
-python3 imagesplit.py 10 2 4
-python3 imagesplit.py 11 2 4
-python3 imagesplit.py 12 2 4
-python3 imagesplit.py 13 2 4
-python3 imagesplit.py 14 2 4
-python3 imagesplit.py 15 2 4
-python3 imagesplit.py 16 2 4
-python3 imagesplit.py 21 2 4
-python3 imagesplit.py 26 2 4
-python3 imagesplit.py 1 0 8
-python3 imagesplit.py 2 0 8
-python3 imagesplit.py 3 0 8
-python3 imagesplit.py 4 0 8
-python3 imagesplit.py 5 0 8
-python3 imagesplit.py 6 0 8
-python3 imagesplit.py 7 0 8
-python3 imagesplit.py 8 0 8
-python3 imagesplit.py 9 0 8
-python3 imagesplit.py 10 0 8
-python3 imagesplit.py 11 0 8
-python3 imagesplit.py 12 0 8
-python3 imagesplit.py 13 0 8
-python3 imagesplit.py 14 0 8
-python3 imagesplit.py 15 0 8
-python3 imagesplit.py 16 0 8
-python3 imagesplit.py 21 0 8
-python3 imagesplit.py 26 0 8
-python3 imagesplit.py 1 1 8
-python3 imagesplit.py 2 1 8
-python3 imagesplit.py 3 1 8
-python3 imagesplit.py 4 1 8
-python3 imagesplit.py 5 1 8
-python3 imagesplit.py 6 1 8
-python3 imagesplit.py 7 1 8
-python3 imagesplit.py 8 1 8
-python3 imagesplit.py 9 1 8
-python3 imagesplit.py 10 1 8
-python3 imagesplit.py 11 1 8
-python3 imagesplit.py 12 1 8
-python3 imagesplit.py 13 1 8
-python3 imagesplit.py 14 1 8
-python3 imagesplit.py 15 1 8
-python3 imagesplit.py 16 1 8
-python3 imagesplit.py 21 1 8
-python3 imagesplit.py 26 1 8
-python3 imagesplit.py 1 2 8
-python3 imagesplit.py 2 2 8
-python3 imagesplit.py 3 2 8
-python3 imagesplit.py 4 2 8
-python3 imagesplit.py 5 2 8
-python3 imagesplit.py 6 2 8
-python3 imagesplit.py 7 2 8
-python3 imagesplit.py 8 2 8
-python3 imagesplit.py 9 2 8
-python3 imagesplit.py 10 2 8
-python3 imagesplit.py 11 2 8
-python3 imagesplit.py 12 2 8
-python3 imagesplit.py 13 2 8
-python3 imagesplit.py 14 2 8
-python3 imagesplit.py 15 2 8
-python3 imagesplit.py 16 2 8
-python3 imagesplit.py 21 2 8
-python3 imagesplit.py 26 2 8
+python3 imagesplit_multi.py train close 2 2 15
+python3 imagesplit_multi.py train close 2 2 15
+python3 imagesplit_multi.py train close 2 2 21
+python3 imagesplit_multi.py train close 2 2 26
+python3 imagesplit_multi.py train far 0 2 1
+python3 imagesplit_multi.py train far 0 2 2
+python3 imagesplit_multi.py train far 0 2 3
+python3 imagesplit_multi.py train far 0 2 4
+python3 imagesplit_multi.py train far 0 2 5
+python3 imagesplit_multi.py train far 0 2 6
+python3 imagesplit_multi.py train far 0 2 7
+python3 imagesplit_multi.py train far 0 2 8
+python3 imagesplit_multi.py train far 0 2 9
+python3 imagesplit_multi.py train far 0 2 10
+python3 imagesplit_multi.py train far 0 2 11
+python3 imagesplit_multi.py train far 0 2 12
+python3 imagesplit_multi.py train far 0 2 13
+python3 imagesplit_multi.py train far 0 2 14
+python3 imagesplit_multi.py train far 0 2 15
+python3 imagesplit_multi.py train far 0 2 16
+python3 imagesplit_multi.py train far 0 2 21
+python3 imagesplit_multi.py train far 0 2 26
+python3 imagesplit_multi.py train far 1 2 1
+python3 imagesplit_multi.py train far 1 2 2
+python3 imagesplit_multi.py train far 1 2 3
+python3 imagesplit_multi.py train far 1 2 4
+python3 imagesplit_multi.py train far 1 2 5
+python3 imagesplit_multi.py train far 1 2 6
+python3 imagesplit_multi.py train far 1 2 7
+python3 imagesplit_multi.py train far 1 2 8
+python3 imagesplit_multi.py train far 1 2 9
+python3 imagesplit_multi.py train far 1 2 10
+python3 imagesplit_multi.py train far 1 2 11
+python3 imagesplit_multi.py train far 1 2 12
+python3 imagesplit_multi.py train far 1 2 13
+python3 imagesplit_multi.py train far 1 2 14
+python3 imagesplit_multi.py train far 1 2 15
+python3 imagesplit_multi.py train far 1 2 16
+python3 imagesplit_multi.py train far 1 2 21
+python3 imagesplit_multi.py train far 1 2 26
+python3 imagesplit_multi.py train far 2 2 1
+python3 imagesplit_multi.py train far 2 2 2
+python3 imagesplit_multi.py train far 2 2 3
+python3 imagesplit_multi.py train far 2 2 4
+python3 imagesplit_multi.py train far 2 2 5
+python3 imagesplit_multi.py train far 2 2 6
+python3 imagesplit_multi.py train far 2 2 7
+python3 imagesplit_multi.py train far 2 2 8
+python3 imagesplit_multi.py train far 2 2 9
+python3 imagesplit_multi.py train far 2 2 10
+python3 imagesplit_multi.py train far 2 2 11
+python3 imagesplit_multi.py train far 2 2 12
+python3 imagesplit_multi.py train far 2 2 13
+python3 imagesplit_multi.py train far 2 2 14
+python3 imagesplit_multi.py train far 2 2 15
+python3 imagesplit_multi.py train far 2 2 16
+python3 imagesplit_multi.py train far 2 2 21
+python3 imagesplit_multi.py train far 2 2 26
+python3 imagesplit_multi.py test far 0 2 1
+python3 imagesplit_multi.py test far 0 2 2
+python3 imagesplit_multi.py test far 0 2 3
+python3 imagesplit_multi.py test far 0 2 4
+python3 imagesplit_multi.py test far 0 2 5
+python3 imagesplit_multi.py test far 0 2 6
+python3 imagesplit_multi.py test far 0 2 7
+python3 imagesplit_multi.py test far 0 2 8
+python3 imagesplit_multi.py test far 0 2 9
+python3 imagesplit_multi.py test far 0 2 10
+python3 imagesplit_multi.py test far 0 2 11
+python3 imagesplit_multi.py test far 0 2 12
+python3 imagesplit_multi.py test far 0 2 13
+python3 imagesplit_multi.py test far 0 2 14
+python3 imagesplit_multi.py test far 0 2 15
+python3 imagesplit_multi.py test far 0 2 16
+python3 imagesplit_multi.py test far 0 2 21
+python3 imagesplit_multi.py test far 0 2 26
+python3 imagesplit_multi.py test far 1 2 1
+python3 imagesplit_multi.py test far 1 2 2
+python3 imagesplit_multi.py test far 1 2 3
+python3 imagesplit_multi.py test far 1 2 4
+python3 imagesplit_multi.py test far 1 2 5
+python3 imagesplit_multi.py test far 1 2 6
+python3 imagesplit_multi.py test far 1 2 7
+python3 imagesplit_multi.py test far 1 2 8
+python3 imagesplit_multi.py test far 1 2 9
+python3 imagesplit_multi.py test far 1 2 10
+python3 imagesplit_multi.py test far 1 2 11
+python3 imagesplit_multi.py test far 1 2 12
+python3 imagesplit_multi.py test far 1 2 13
+python3 imagesplit_multi.py test far 1 2 14
+python3 imagesplit_multi.py test far 1 2 15
+python3 imagesplit_multi.py test far 1 2 16
+python3 imagesplit_multi.py test far 1 2 21
+python3 imagesplit_multi.py test far 1 2 26
+python3 imagesplit_multi.py test far 2 2 1
+python3 imagesplit_multi.py test far 2 2 2
+python3 imagesplit_multi.py test far 2 2 3
+python3 imagesplit_multi.py test far 2 2 4
+python3 imagesplit_multi.py test far 2 2 5
+python3 imagesplit_multi.py test far 2 2 6
+python3 imagesplit_multi.py test far 2 2 7
+python3 imagesplit_multi.py test far 2 2 8
+python3 imagesplit_multi.py test far 2 2 9
+python3 imagesplit_multi.py test far 2 2 10
+python3 imagesplit_multi.py test far 2 2 11
+python3 imagesplit_multi.py test far 2 2 12
+python3 imagesplit_multi.py test far 2 2 13
+python3 imagesplit_multi.py test far 2 2 14
+python3 imagesplit_multi.py test far 2 2 15
+python3 imagesplit_multi.py test far 2 2 16
+python3 imagesplit_multi.py test far 2 2 21
+python3 imagesplit_multi.py test far 2 2 26
+python3 imagesplit_multi.py test close 0 2 1
+python3 imagesplit_multi.py test close 0 2 2
+python3 imagesplit_multi.py test close 0 2 3
+python3 imagesplit_multi.py test close 0 2 4
+python3 imagesplit_multi.py test close 0 2 5
+python3 imagesplit_multi.py test close 0 2 6
+python3 imagesplit_multi.py test close 0 2 7
+python3 imagesplit_multi.py test close 0 2 8
+python3 imagesplit_multi.py test close 0 2 9
+python3 imagesplit_multi.py test close 0 2 10
+python3 imagesplit_multi.py test close 0 2 11
+python3 imagesplit_multi.py test close 0 2 12
+python3 imagesplit_multi.py test close 0 2 13
+python3 imagesplit_multi.py test close 0 2 14
+python3 imagesplit_multi.py test close 0 2 15
+python3 imagesplit_multi.py test close 0 2 16
+python3 imagesplit_multi.py test close 0 2 21
+python3 imagesplit_multi.py test close 0 2 26
+python3 imagesplit_multi.py test close 1 2 1
+python3 imagesplit_multi.py test close 1 2 2
+python3 imagesplit_multi.py test close 1 2 3
+python3 imagesplit_multi.py test close 1 2 4
+python3 imagesplit_multi.py test close 1 2 5
+python3 imagesplit_multi.py test close 1 2 6
+python3 imagesplit_multi.py test close 1 2 7
+python3 imagesplit_multi.py test close 1 2 8
+python3 imagesplit_multi.py test close 1 2 9
+python3 imagesplit_multi.py test close 1 2 10
+python3 imagesplit_multi.py test close 1 2 11
+python3 imagesplit_multi.py test close 1 2 12
+python3 imagesplit_multi.py test close 1 2 13
+python3 imagesplit_multi.py test close 1 2 14
+python3 imagesplit_multi.py test close 1 2 15
+python3 imagesplit_multi.py test close 1 2 16
+python3 imagesplit_multi.py test close 1 2 21
+python3 imagesplit_multi.py test close 1 2 26
+python3 imagesplit_multi.py test close 2 2 1
+python3 imagesplit_multi.py test close 2 2 2
+python3 imagesplit_multi.py test close 2 2 3
+python3 imagesplit_multi.py test close 2 2 4
+python3 imagesplit_multi.py test close 2 2 5
+python3 imagesplit_multi.py test close 2 2 6
+python3 imagesplit_multi.py test close 2 2 7
+python3 imagesplit_multi.py test close 2 2 8
+python3 imagesplit_multi.py test close 2 2 9
+python3 imagesplit_multi.py test close 2 2 10
+python3 imagesplit_multi.py test close 2 2 11
+python3 imagesplit_multi.py test close 2 2 12
+python3 imagesplit_multi.py test close 2 2 13
+python3 imagesplit_multi.py test close 2 2 14
+python3 imagesplit_multi.py test close 2 2 15
+python3 imagesplit_multi.py test close 2 2 16
+python3 imagesplit_multi.py test close 2 2 21
+python3 imagesplit_multi.py test close 2 2 26

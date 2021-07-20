@@ -6,7 +6,7 @@ import random
 import matplotlib.pyplot as plt
 
 iris = load_iris()
-tf.random.set_seed(1)
+# tf.random.set_seed(1)
 
 random.seed(12345)
 Ndata = len(iris.data)
