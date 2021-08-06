@@ -1,5 +1,6 @@
-set terminal pngcairo enhanced font 'Times New Roman,15'
+set terminal pngcairo enhanced font 'Times New Roman,20'
 set key right top box
+set key width -2
 set size ratio 1
 set output "loss.png"
 set xrange[0.5:17.5]
