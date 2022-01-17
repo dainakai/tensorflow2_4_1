@@ -19,9 +19,9 @@
 
 # unset multiplot
 
-set terminal pngcairo enhanced font 'Times New Roman,15'
+set terminal pdfcairo enhanced font 'Times New Roman,15'
 # set size ratio 0.3
-set output "lineprofile.png"
+set output "lineprofile.pdf"
 set key right top box
 set margins 0,0,0,0
 set xrange[0:1000]
@@ -41,3 +41,4 @@ plot "lineprofile.txt" using ($0*10):1 with linespoints title "Numerical hologra
 
 
 unset multiplot
+unset output

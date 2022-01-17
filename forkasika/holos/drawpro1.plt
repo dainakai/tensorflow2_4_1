@@ -1,6 +1,6 @@
-set terminal pngcairo enhanced font 'Times New Roman,10'
+set terminal pdfcairo enhanced font 'Times New Roman,10'
 unset key
-set output "./processed/pro1.png"
+set output "./pdfprocessed/pro1.pdf"
 set multiplot
 set size ratio 1
 
@@ -31,3 +31,4 @@ set tics out
 replot
 
 unset multiplot
+unset output
