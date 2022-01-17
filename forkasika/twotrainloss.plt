@@ -1,4 +1,4 @@
-set terminal pdfcairo enhanced font 'Times New Roman,20'
+set terminal pdfcairo enhanced font 'Times New Roman,15'
 set key right top box
 set key width -2
 set size ratio 1
